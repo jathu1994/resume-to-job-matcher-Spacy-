@@ -1,0 +1,7 @@
+Name : Sivarathan
+
+Location : Chennai
+
+Description : Friendly and professional customer service specialist with extensive experience resolving escalated customer complaints and issues. Strong interpersonal skills proven through customer satisfaction and peer recognition awards. Creative problem solver who built a new customer retention program that increased customer loyalty by 20%. Seeking a position as a customer service team supervisor to continue career growth into management.
+
+Skills : Java, Scala, Hadoop, Hive, Bigdata, Programming, SQL server reporting, Msbi Ssis, Ssrs, Msbi, Sql Reporting, Artificial Intelligence, Pandas, Pyspark, Sklearn, Flask, Django, Map Reduce, Parametric Design, Modeling, Regression, Patterns, Data Mining, Text Mining, Oops, Deep Learning, Web Analytics, Time Series, Regression, Tensorflow, Azure, Linear Regression

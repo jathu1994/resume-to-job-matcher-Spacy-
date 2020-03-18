@@ -1,0 +1,9 @@
+Title : Data Scientist
+
+Description : Experience in various statistical and machine learning models, data mining, unstructured data analytics in corporate or academic research environments.
+
+Location : Mumbai
+
+Salary : Not Specified
+
+Skills : Data Science, Python, Machine Learning, SAS, Java, Scala, Hadoop, Hive, Bigdata, Programming, SQL server reporting, Msbi Ssis, Ssrs, Msbi, Sql Reporting, Artificial Intelligence, Pandas, Pyspark, Sklearn, Flask, Django, Map Reduce, Parametric Design, Modeling, Regression, Patterns, Data Mining, Text Mining, Oops, Deep Learning, Web Analytics, Time Series, Regression, Tensorflow, Azure, Linear Regression, Logistic Regression, Decision Tree, Random Forest, Data Structure, Computer Vision

@@ -1,0 +1,15 @@
+Title : Data Engineer
+
+Description : You will be responsible for acting as the de-facto lead/mentor for the projects that the team owns. Interfacing with business owners, business engagement teams,product owners and our partner teams from across the world will be in your monthly agenda.
+
+Location : Bengaluru / Bangalore
+
+Experience : 10-17 Years
+
+Salary : Not Specified 
+
+Skills : ava, J2EE, Oracle Fusion,Oracle Cloud, Salesforce, 
+Devops Android, Business Analyst, UI Developer, DBAs, 
+Embedded Systems, .NET, Hadoop, SQL Developer, Big Data, 
+Tableau, Networking, Etl, Informatica, Ios, Quality Analyst, 
+Project Manager, Python

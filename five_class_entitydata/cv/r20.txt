@@ -1,0 +1,7 @@
+Name : divani
+
+Location : Chennai
+
+Description : Friendly and professional customer service specialist with extensive experience resolving escalated customer complaints and issues. Strong interpersonal skills proven through customer satisfaction and peer recognition awards. Creative problem solver who built a new customer retention program that increased customer loyalty by 20%. Seeking a position as a customer service team supervisor to continue career growth into management.
+
+Skills : Java EE, SQL Server, C#, ASP.NET, Web Api, Mvc, Javascript
