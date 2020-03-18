@@ -1,5 +1,5 @@
 # resume-to-job-matcher-Spacy-
-just run the code changing the relative path of each file in the code. all files are in the five class entity folder.
+just run the code by changing the relative path of each file in the code. all files are in the five class entity folder.
 
 some output by important steps are given in another folder
 
